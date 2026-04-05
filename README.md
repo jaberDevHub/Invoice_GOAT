@@ -22,7 +22,7 @@
 
   <!-- The Link -->
   <h2><a href="#">🌐 LAUNCH THE LIVE GENERATOR YOURSELF</a></h2>
-  <p><i>(https://invoicegoat.vercel.app/)</i></p>
+  <p><i>https://invoicegoat.vercel.app/</i></p>
 </div>
 
 <br />
